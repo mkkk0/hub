@@ -15,7 +15,7 @@ def userinput(name1, name2):
 
 def main():
     #insert path
-    path = "P:\\RTD\\DPF R&D GENERAL\\LABORATORY_TRIALS\\2020\\600922 Finsa Nelas, Portugali - ClassiForming"
+    path = ""
 
     #which kind of filetypes to name
     filetype = ".mp4"
